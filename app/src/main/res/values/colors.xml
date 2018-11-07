@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_primary">#008577</color>
+    <color name="color_primary_dark">#00574B</color>
+    <color name="color_accent">#D81B60</color>
+
+    <color name="transparent">@android:color/transparent</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_grey_darker">#FFE5E5E5</color>
+    <color name="background_grey_dark">#FFD6D6D6</color>
+    <color name="background_grey_more_dark">#FFC6C6C6</color>
+    <color name="background_grey_light_dark">#FFF1F1F1</color>
+    <color name="background_grey">#FF4A494B</color>
+    <color name="background_grey_light">#F7F7F7</color>
+    <color name="background_grey_lighter">#FCFCFC</color>
+    <color name="translucent_background_grey_lighter">#33FCFCFC</color>
+
+    <color name="lighter_orange">#fff8e7b6</color>
+    <color name="dark_orange">#ffa0410d</color>
+
+    <color name="text_title_color">#FF232323</color>
+    <color name="text_title_light_color">#FF464646</color>
+    <color name="text_title_lighter_color">#FF585858</color>
+    <color name="text_subtitle_color">#9B9B9B</color>
+    <color name="text_subtitle_lighter_color">#DADADA</color>
+    <color name="background_translucent_grey">#AA212121</color>
+    <color name="background_translucent_black">#88000000</color>
+    <color name="background_light_gray">#FAFAFA</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="light_text">#919EAB</color>
+    <color name="black">#000000</color>
+</resources>

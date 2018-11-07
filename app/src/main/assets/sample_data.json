@@ -1,0 +1,31 @@
+{
+  "message": "Successfully loaded",
+  "error": "",
+  "data": {
+    "candidate_first_name": "",
+    "candidate_last_name": "",
+    "candidate_contact_email": "",
+    "candidate_public_phone_number": "",
+    "banner_images_url": [
+      {
+        "url": "http://"
+      },
+      {
+        "url": "http://"
+      }
+    ],
+    "manifesto": "",
+    "live_video_links": "",
+    "social_media_link": "",
+    "donation_links": "",
+    "photo_gallery": [
+      {
+        "url": "http://"
+      },
+      {
+        "url": "http://"
+      }
+    ],
+    "language": "english|igbo|yoruba|hausa"
+  }
+}
